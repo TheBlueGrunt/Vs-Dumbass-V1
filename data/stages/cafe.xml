@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/cafe/" name="cafe" zoom="0.6">
+	<sprite x="-1100" sprite="space" y="-700" type="none" scale="0.95" name="space"/>
+	<sprite scrolly="0.9" x="-1100" sprite="stars" y="-700" type="none" scale="0.95" scrollx="0.8" name="stars"/>
+	<sprite x="-1100" sprite="floor" y="-700" type="none" scale="0.95" name="floor"/>
+	<girlfriend x="300" scroll="1" y="200"/>
+	<dad x="0" y="220"/>
+	<boyfriend x="900" y="220"/>
+	<sprite x="-1100" sprite="front_table" y="-700" type="none" scale="0.95" name="front_table"/>
+	<sprite x="-1098" sprite="light" y="-700" type="none" scale="0.95" name="light"/>
+</stage>

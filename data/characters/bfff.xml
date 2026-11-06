@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-character>
+<character y="320" sprite="BoyFriend_Speg" flipX="true" isPlayer="true" icon="bf">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="bf down 1"/>
+	<anim name="singRIGHT" anim="bf right 1"/>
+	<anim name="singLEFT" anim="bf left 1"/>
+	<anim name="singUP" anim="bf up 1"/>
+	<anim name="bf up 2" anim="bf up 2"/>
+	<anim name="bf down 2" anim="bf down 2"/>
+	<anim name="bf left 2" anim="bf left 2"/>
+	<anim name="bf right 2" anim="bf right 2"/>
+	<anim name="joint pose up" anim="joint pose up"/>
+	<anim name="joint up miss" anim="joint up miss"/>
+	<anim name="joint pose down" anim="joint pose down"/>
+	<anim name="joint pose left" anim="joint pose left"/>
+	<anim name="joint down miss" anim="joint down miss"/>
+	<anim name="joint left miss" anim="joint left miss"/>
+	<anim name="joint pose right" anim="joint pose right"/>
+	<anim name="joint right miss" anim="joint right miss"/>
+</character>

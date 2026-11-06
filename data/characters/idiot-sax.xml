@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character y="220" sprite="idiot_sax" icon="idiot" color="#EFE448">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down" x="-16" y="-76"/>
+	<anim name="singRIGHT" anim="right" x="-24" y="2"/>
+	<anim name="singLEFT" anim="left" x="1" y="3"/>
+	<anim name="singUP" anim="up" x="1" y="8"/>
+	<anim name="walking" anim="walking" x="-12" y="35"/>
+</character>

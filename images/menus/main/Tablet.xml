@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tablet.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mainmenuhud0000" x="5" y="5" width="1280" height="720"/>
+	<SubTexture name="mainmenuhud0001" x="5" y="730" width="1280" height="720"/>
+</TextureAtlas>

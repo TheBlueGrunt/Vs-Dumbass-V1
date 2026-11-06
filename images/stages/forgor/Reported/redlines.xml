@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redlines.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="redlines0000" x="5" y="5" width="1281" height="526" frameX="0" frameY="-16" frameWidth="1281" frameHeight="542"/>
+	<SubTexture name="redlines0001" x="5" y="5" width="1281" height="526" frameX="0" frameY="-16" frameWidth="1281" frameHeight="542"/>
+	<SubTexture name="redlines0002" x="5" y="536" width="1281" height="537" frameX="0" frameY="0" frameWidth="1281" frameHeight="542"/>
+	<SubTexture name="redlines0003" x="5" y="536" width="1281" height="537" frameX="0" frameY="0" frameWidth="1281" frameHeight="542"/>
+</TextureAtlas>

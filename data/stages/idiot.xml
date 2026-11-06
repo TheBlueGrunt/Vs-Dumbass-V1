@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/idiot/" name="idiot" zoom="0.65">
+	<sprite x="-544" sprite="lemon-bg" y="-232" type="none" name="lemon-bg"/>
+	<girlfriend x="372.532895777031" y="161.083779798966"/>
+	<dad y="150"/>
+	<boyfriend y="110"/>
+	<sprite x="-544" sprite="table" y="-232" type="none" name="table"/>
+	<sprite x="-543.999893822159" sprite="light" y="-231.150490733329" type="none" skewx="-7.96331655124049e-06" scalex="0.999999999999776" scaley="0.998820126018513" name="light"/>
+</stage>

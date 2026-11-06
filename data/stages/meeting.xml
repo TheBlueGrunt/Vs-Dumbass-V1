@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/forgor/" name="meeting">
+	<sprite x="-600" sprite="void" y="-350" type="none" scale="0.63" name="void"/>
+	<sprite x="-600" sprite="stars" y="-350" type="none" scale="0.63" name="stars"/>
+	<sprite x="-600" sprite="dots-idk" y="-350" type="none" scale="0.63" name="dots-idk"/>
+	<sprite x="-600" sprite="cafeteria" y="-350" type="none" scale="0.63" name="cafeteria"/>
+	<girlfriend zoomfactor="1.3" scroll="1" y="-80"/>
+	<boyfriend camyoffset="-10" y="30"/>
+	<dad camyoffset="-10" y="30"/>
+	<sprite x="-600" sprite="table" y="-350" type="none" scale="0.63" name="table"/>
+	<sprite x="-600" sprite="light" y="-350" type="none" scale="0.63" name="light"/>
+</stage>

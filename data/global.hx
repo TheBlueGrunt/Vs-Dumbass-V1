@@ -1,0 +1,1 @@
+public static var release:Bool = false;
