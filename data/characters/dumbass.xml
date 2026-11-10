@@ -1,9 +1,10 @@
 <!DOCTYPE codename-engine-character>
-<character y="380" sprite="dumb_boy" icon="dumbass">
+<character x="-50" y="350" icon="dumbass">
 	<anim name="idle" anim="idle"/>
-	<anim name="singDOWN" anim="down" x="-33" y="-62"/>
-	<anim name="singRIGHT" anim="right" x="-43" y="2"/>
-	<anim name="singLEFT" anim="left" x="159" y="17"/>
-	<anim name="singUP" anim="up" x="58" y="50"/>
+	<anim name="singDOWN" anim="down" x="-47" y="-18"/>
+	<anim name="singRIGHT" anim="right" x="-66" y="-10"/>
+	<anim name="singLEFT" anim="left" x="209" y="-21"/>
+	<anim name="singUP" anim="up" x="90" y="179"/>
 	<anim name="stunned" anim="idle" loop="true" indices="13,14"/>
+	<anim name="objection" anim="objection" x="59" y="244"/>
 </character>
