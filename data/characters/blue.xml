@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character y="380" sprite="BLUEV2" scale="0.7" icon="blue">
+<character y="380" sprite="BLUEV2" scale="0.7" color="#2C2CCE" holdTime="6.1">
 	<anim name="idle" anim="idle"/>
 	<anim name="singDOWN" anim="down" x="18.43" y="-19.14"/>
 	<anim name="singRIGHT" anim="right" x="101.29" y="0.86"/>

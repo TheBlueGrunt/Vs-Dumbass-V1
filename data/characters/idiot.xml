@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character y="200" camx="-50" camy="100" icon="idiot">
+<character x="-50" y="180" camx="-50" camy="100" color="#EFE448" holdTime="6.1">
 	<anim name="idle" anim="idle"/>
 	<anim name="singDOWN" anim="down" x="3" y="-15"/>
 	<anim name="singRIGHT" anim="right" x="-8" y="44"/>
